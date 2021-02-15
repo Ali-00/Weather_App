@@ -51,7 +51,6 @@ search_btn.pack()
 location_lbl = Label(app, text='', font=('bold',20))
 location_lbl.pack()
 
-
 temp_lbl = Label(app, text='')
 temp_lbl.pack()
 
